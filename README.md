@@ -1,9 +1,29 @@
 
 # Rapport
 
-**Skriv din rapport här!**
+Jag har förändrat meddelandet i filen content_main.xml- filen.
 
-_Du kan ta bort all text som finns sedan tidigare_.
+```
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Good morning!"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+```
+För att modifiera texten så ändrades strängen från "Hello World" till "Good Morning".
+Efter justeringen så commitade jag förändringen till GitHub med "Commit and Push" för att ladda upp
+förändringen till Github globalt så jag kommer åt min förändring på andra enheter.
+
+![](Screenshot_Text.png)
+
+
+
+
+
+
 
 ## Följande grundsyn gäller dugga-svar:
 
