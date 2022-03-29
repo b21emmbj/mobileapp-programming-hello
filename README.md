@@ -16,7 +16,7 @@ Jag har förändrat meddelandet i filen content_main.xml- filen.
 För att modifiera texten så ändrades strängen från "Hello World" till "Good Morning".
 Efter justeringen så commitade jag förändringen till GitHub med "Commit and Push" för att ladda upp
 förändringen till Github globalt så jag kommer åt min förändring på andra enheter.
-
+Skärmbild:
 ![](Screenshot_Text.png)
 
 
